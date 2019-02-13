@@ -1,7 +1,14 @@
 <template>
   <div class="flex-center h-100">
-    <h1>Hello World</h1>
-    <h2>Sub Hello World</h2>
+    <h3>Heading with h3 - tag</h3>
+      <p class="w-50 text-center">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab dolorum eaque eveniet harum hic id itaque
+        molestiae natus nobis odit, officiis optio quasi quibusdam reiciendis repudiandae sequi tenetur ullam, velit?
+      </p>
+      <p class="w-50 text-center">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab dolorum eaque eveniet harum hic id itaque
+        molestiae natus nobis odit, officiis optio quasi quibusdam reiciendis repudiandae sequi tenetur ullam, velit?
+      </p>
   </div>
 </template>
 
@@ -13,7 +20,5 @@ export default {
 </script>
 
 <style lang="scss">
-  body{
-    color: $font-color;
-  }
+  @import "styles/app";
 </style>
