@@ -14,7 +14,7 @@ module.exports = {
   css: {
     sourceMap: true
   },
-  publicPath: undefined,
+  publicPath: './',
   outputDir: undefined,
   assetsDir: undefined,
   runtimeCompiler: undefined,
