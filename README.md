@@ -1,5 +1,7 @@
 # scss-typography
 
+Probably not a first and not a last lightweight SCSS/SASS responsive font adjustment with additional utilities to control content. Links to original source you will find inside "_font-mixins" & "_font_respone"(default) files. Please feel free to re-use resources for your needs.
+
 ## Project setup
 ```
 npm install
@@ -13,16 +15,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
