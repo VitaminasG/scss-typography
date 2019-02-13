@@ -11,12 +11,20 @@ $cyan: #6cb2eb;
 $dark-body: #121212;
 
 // Custom Colors
-$spanAlert: #e4c921;
+$alert: #ffd886;
 $success: #86c148;
-$font-color: #dfffa8;
-$bg-color: #ff7597;
+$bg-color: #ff8d9f;
 
 // Font Rules
+$font-color: #5b578f;
+$font-stack: Georgia, Times, Times New Roman, serif;
+$font-sizeDefault: 1rem;
+$font-shadow: 0 0 3px rgba(101, 101, 101, 0.4);
 
-$fontStack: Helvetica Neue, Helvetica, Arial, sans-serif;
-$sizeDefault: 1rem;
+// Activate if have Custom Font to add
+
+// $font-path: './path/to/font/';
+// $font-custName: "Anything Type here";
+// $font-name: $font-custName, Courier New;
+//
+// @font-face { font-family: $font-custName; font-weight: normal; src: url("#{$font-path}clacon.ttf"); }
