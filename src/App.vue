@@ -1,6 +1,6 @@
 <template>
   <div class="flex-center h-100 w-100">
-    <div class="px-2 flex-center h-75 w-75">
+    <div class="px-2 flex-center">
       <div class="flex-center h-25">
         <img class="h-100" src="./assets/sass.png" alt="SASS">
       </div>
