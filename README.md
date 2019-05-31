@@ -8,6 +8,14 @@ See [Demo Link](https://sasstypography.gediminaspalsys.uk/).
 
 ## Project setup
 ```
+git clone https://github.com/VitaminasG/scss-typography
+```
+
+```
+cd scss-typography
+```
+
+```
 npm install
 ```
 
